@@ -1,4 +1,11 @@
-1111111111111111111
-2222222222222222222
+<<<<<<< .mine
 also add some content
 11111
+
+
+=======
+add some content to hello.txt
+1111111111111
+wwwwwwwwwwwww
+dddd
+>>>>>>> .theirs
